@@ -1,0 +1,26 @@
+Assessments
+Participants belonging to the BG were evaluated, in a single data collection session, in the sports facility where they usually train. The choice to recruit the BG in a single sports club was made to reduce bias related to any differences in the management of basketball training. The SG and nSG were evaluated in school classrooms.
+
+The total duration of each evaluation was approximately 15/20 min during which the participants filled out the questionnaire and carried out the three manual dexterity tests (i.e., GPT, CRT, and HGT). The participants were familiarized with the tests by trying them once for each limb before data collection.
+
+Handgrip test (HGT)
+HGT is a test to assess the maximum strength of the upper limbs (kg). The instrument consists of a resistance (spring) and a handle. The resistance is adjusted according to the age of the participants. Specifically, each participant had to exert sufficient strength to create displacement but not cause contact between the parts of the instrument. Hence, the use of 20 kg spring was adequate for all participants. Each participant was asked to grip and squeeze the dynamometer expressing the maximum strength. The test was carried out in a sitting position, with the back resting on the chair and with a 90° angle between the arm and forearm28,29,30. The dynamometer used was the Kern Map model 80K1—Kern®, Kern & Sohn GmbH, Balingen, Germany. The test was repeated three times for both the dominant (d) and non-dominant (nd) limbs, and the best of the three trials for both the d and nd limbs was considered for statistical analysis31,32,33 (Fig. 1).
+
+Figure 1
+Coin rotation task (CRT)
+CRT is a test for the assessment of manual dexterity. Participants were asked to rotate a coin with a standardized diameter and weight (Nordic Gold (CuAl5Zn5Sn1), diameter of 24.25 mm, thickness 2.38 mm, weight 7.80 g) between the first three fingers of the hand. The test was performed in a sitting position, the non-working hand resting (palm down) on a table placed in front of the participants. The number of rotations was the score of this task23. The test was repeated three times for both the d and nd limbs, and the average of the three measurements for the d and nd limbs was considered for statistical analysis (Fig. 2).
+Grooved pegboard test (GPT)
+GPT is a standardized test for the assessment of manual dexterity. Participants were asked to insert 25 pegs into a board with 25 holes in the shortest possible time, taking one peg at a time with only the limb we were testing. The test was repeated twice for both limbs and the sum of the time score (s) of the two tests for both limbs was considered for statistical analysis. The test was performed in a sitting position with the pegboard resting on a table placed in front of the participants as well as the non-working hand (palm down on the table). The instrument used was the Grooved Pegboard Model 32,0251 (Fig. 3).
+tatistical analysis
+The Shapiro–Wilk test was used to test the normal distribution of the data in the three groups. The difference between the groups for each dependent variable (both d and nd performance of GPT, CRT, and HGT) was evaluated with a multivariate analysis of covariance (MANCOVA) with “age” as the covariate and “groups” as the factor. Dwass–Steel–Critchlow–Fligner pairwise comparison was used for variables whose data did not have a normal distribution. Power analysis for MANCOVA was performed using “G*Power 3.1” software, and the a priori sample size was calculated setting error probability α at 0.05, power β at 0.8, and effect size f2 (V) at 0.25.
+
+The test–retest reliability of the CRT scores was assessed through the intra-class correlation (ICC2,1) coefficient (two-way absolute agreement) with a 95% confidence interval23. ICC > 0.90 indicates excellent reliability, ICC 0.75–0.90 indicates good reliability, ICC 0.50–0.75 indicates moderate reliability, and ICC < 0.50 indicates poor reliability. The SEM, which indicates random error in a measure on repeated assessments, was calculated as follows SEM: SDpooled 
+34. Construct validity was determined by the association between variables evaluated with Spearman’s Rho.
+
+Statistical analysis was performed using “Jamovi” software version “2.3.21.0”.
+
+Ethics
+The study design meets the purposes of the Declaration of Helsinki, and the Ethics Committee Commission of the University of Novi Sad Faculty of Sport and Physical Education approved the study (Approval number: 49-03-02/2023-01 Novi Sad, Serbia). Parents/guardians were informed about the study protocol and signed the informed consent for study participation. Informed consent was also obtained from all participants.
+
+Results
+78 children (age: 12.45 ± 1.88 years) met the inclusion criteria and were included in our study. From the responses to the question “What kind of sports do you practice? And “for how long?” of the administered questionnaire, the participants were categorized into the groups as follows: n = 37 for the BG, n = 19 for the SG, and n = 22 for the nSG. The flow diagram describes the recruitment process (Fig. 4).
